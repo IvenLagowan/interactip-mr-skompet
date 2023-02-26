@@ -1,2 +1,7 @@
-# interactip-mr-skompet
-***I'm student sacode*** _Web developer_ ***LA N 69***
+# Interactive M'r Skompet
+
+
+SaCode Otodidak
+
+
+## link repo pages ('https://ivenlagowan.github.io/interactip-mr-skompet/');
